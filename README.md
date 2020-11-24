@@ -1,4 +1,4 @@
-# project-classification-debtTerm-analysis
+# project-classification-term-analysis
 Brief description of the data set, a summary of its attributes, and an outline of what to accomplish with this analysis:<br/>
 ### The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
 
