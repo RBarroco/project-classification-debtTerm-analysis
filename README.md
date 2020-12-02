@@ -1,3 +1,6 @@
+If the project is not visible on github, you can use this link:<br/>
+https://nbviewer.jupyter.org/github/RBarroco/project-classification-term-analysis/blob/master/project-classification.ipynb
+
 # project-classification-term-analysis
 Brief description of the data set, a summary of its attributes, and an outline of what to accomplish with this analysis:<br/>
 ### The classification goal is to predict if the client will subscribe (yes/no) a term deposit (variable y).
